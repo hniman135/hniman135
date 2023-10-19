@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemVrdWZjcGIyOTc2bnJicHc3c3NjdG5mOG50NGU5Ym9ibDE5NjdvMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HgyiEboRmxvgGupYdl/giphy.gif)](https://github.com/hniman135)
+[![MasterHead](https://i.pinimg.com/originals/5b/91/18/5b9118be9052ebbc742a960219e5ca9d.gif)](https://github.com/hniman135)
 <h1 align="center">Hi 👋, I'm Hniman</h1>
 <h3 align="center">An Embedded Systems student from Vietnam</h3>
 
