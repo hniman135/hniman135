@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/5b/91/18/5b9118be9052ebbc742a960219e5ca9d.gif)](https://github.com/hniman135)
-<h1 align="center">Hi 👋, I'm Hniman</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+%3F!%3F;I+am+hniman+%3A%3C;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 <h3 align="center">An Embedded Systems student from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hniman135&label=Profile%20views&color=0e75b6&style=flat" alt="hniman135" /> </p>
